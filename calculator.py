@@ -1,9 +1,3 @@
-
-# + +   - -   * *   / /
-# + *   - *   * /                   0 1 2 3 4 5 6 7         2 = index
-# + /   - /                         1 0 + 1 0 + 1 0
-# + -   
-    
 num = input('Enter numbers:\n')
 opperations = ["+","-","*","/"]
 
